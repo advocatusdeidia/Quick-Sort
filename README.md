@@ -1,0 +1,1 @@
+This code implements the Quick Sort algorithm, which efficiently sorts a list of items. The quick_sort function divides the list into sublists based on a reference element (pivot) and recursively sorts each of them.
